@@ -16,7 +16,7 @@ bosh_menu = ReplyKeyboardMarkup(
     keyboard=[
         [
             KeyboardButton(text="Matematika 🔢"),
-            KeyboardButton(text="Informatika 🖥️"),
+            
         ],
         [
             KeyboardButton(text="Fizika 🛢️"),
